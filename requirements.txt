@@ -1,1 +1,11 @@
-#test
+matplotlib
+sqlite3
+pandas
+plotly
+ipywidgets
+numpy
+cufflinks
+dateutil
+datetime
+ipysheet
+IPython
