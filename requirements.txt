@@ -6,3 +6,4 @@ numpy
 cufflinks
 ipysheet
 IPython
+ipympl
