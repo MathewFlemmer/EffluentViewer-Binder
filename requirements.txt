@@ -1,5 +1,4 @@
 matplotlib
-sqlite
 pandas
 plotly
 ipywidgets
